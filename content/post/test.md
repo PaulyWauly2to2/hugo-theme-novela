@@ -1,7 +1,7 @@
 +++
 authors = []
-date = ""
-excerpt = "content"
+date = 2022-04-20T23:00:00Z
+excerpt = "‘Almost half of UK workers are planning to change jobs in 2022 (‘Daily Telegraph,’ 22 February 2022)"
 hero = "/static/images/andrea-de-santis-zwd435-ewb4-unsplash.jpg"
 title = "Test"
 
