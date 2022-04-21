@@ -7,10 +7,10 @@ sections:
 - type: heading
   label: Content
 - type: document
-  path: exampleSite/content/_index.md
+  path: content/_index.md
   label: Home
 - type: directory
-  path: exampleSite/content/post
+  path: content/post
   label: Posts
   create: all
   match: "**/*"
