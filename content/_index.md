@@ -1,6 +1,6 @@
 ---
 hero:
-  heading: Work is changing - The biggest society change is how we make money is now
+  heading: Work is changing - The biggest social change is how we make money is now
     underway
   maxWidthPX: "652"
 seo:
