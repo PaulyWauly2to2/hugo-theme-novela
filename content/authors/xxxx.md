@@ -1,9 +1,9 @@
 +++
 avatar = ""
-bio = ""
+bio = "Paul's bio"
 draft = true
 featured = false
 social = []
-title = "xxxx"
+title = "Paul Graham"
 
 +++
