@@ -2,7 +2,7 @@
 authors = []
 date = ""
 excerpt = ""
-hero = "images/tn.png"
+hero = ""
 title = "New"
 
 +++
