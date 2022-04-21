@@ -30,3 +30,5 @@ fields:
   type: tag_list
   default: []
   label: Authors
+pages:
+- exampleSite/content/post/test.md
