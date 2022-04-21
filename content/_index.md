@@ -1,6 +1,7 @@
 ---
 hero:
-  heading: Work is changing
+  heading: Work is changing - The biggest society change is how we make money is now
+    underway
   maxWidthPX: "652"
 seo:
   image: "/images/hero-2.jpg"
