@@ -51,3 +51,5 @@ In the session on Friday, 11th February, **Paul Graham** discussed how different
 ### Fun
 
 All of the above 😊. Try them, you will LOVE them.
+
+{{<youtube >}}
