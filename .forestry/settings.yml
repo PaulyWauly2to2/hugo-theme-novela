@@ -19,10 +19,10 @@ sections:
 - type: heading
   label: Data
 - type: directory
-  path: content/authors/hugo-authors
+  path: content/authors
   label: Authors
   create: all
-  match: "*"
+  match: "**/_index.md"
   templates:
   - author
 - type: directory
