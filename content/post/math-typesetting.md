@@ -1,13 +1,12 @@
 ---
 title: Math Typesetting
 date: 2019-03-08
-hero: /images/hero-6.jpg
+hero: "/images/hero-6.jpg"
 excerpt: A brief guide to setup KaTeX
 authors:
-  - Hugo Authors
+- Geoff Hardy
 
 ---
-
 Mathematical notation in a Hugo project can be enabled by using third party JavaScript libraries.
 <!--more-->
 
