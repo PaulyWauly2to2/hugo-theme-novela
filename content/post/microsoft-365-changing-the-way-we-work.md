@@ -2,7 +2,7 @@
 authors = []
 date = 2022-04-20T23:00:00Z
 excerpt = "‘Soaring vacancy rates mean employers need to work hard to attract and retain staff - this will require a shift in attitude to succeed.’"
-hero = "images/andrea-de-santis-zwd435-ewb4-unsplash.jpg"
+hero = "https://workischanging.co.uk/static/images/andrea-de-santis-zwd435-ewb4-unsplash.jpg"
 title = "Microsoft 365 Changing the way we work"
 
 +++
