@@ -2,7 +2,11 @@
 avatar = ""
 bio = "Paul's bio"
 featured = false
-social = []
 title = "Paul Graham"
+[[social]]
+title = "Test"
+[[social]]
+[[social]]
+[[social]]
 
 +++
