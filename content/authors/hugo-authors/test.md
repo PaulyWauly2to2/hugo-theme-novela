@@ -3,6 +3,6 @@ avatar = ""
 bio = "Test bio"
 featured = false
 social = []
-title = "Test"
+title = "Geoff Hardy"
 
 +++
