@@ -8,17 +8,17 @@ title = "Microsoft 365 Changing the way we work"
 +++
 An article in last weekends **‘Observer’**, summed up the current state of the UK jobs market.
 
-> ###### ‘It's not quite the Black Death, but worker shortages hit UK firms hard.'
+> #### ‘It's not quite the Black Death, but worker shortages hit UK firms hard.'
 
-> ###### ‘Soaring vacancy rates mean employers need to work hard to attract and retain staff - this will require a shift in attitude to succeed.’
+> #### ‘Soaring vacancy rates mean employers need to work hard to attract and retain staff - this will require a shift in attitude to succeed.’
 
-> ###### ‘Vacancies are increasing across all industry sectors – including professional services.’
+> #### ‘Vacancies are increasing across all industry sectors – including professional services.’
 
-> ###### ‘The ‘Great Resignation’ hits the UK’.
+> #### ‘The ‘Great Resignation’ hits the UK’.
 
-> ###### ‘This isn’t about pay – ‘meddling with pay won’t help.’
+> #### ‘This isn’t about pay – ‘meddling with pay won’t help.’
 
-> ###### ‘Today’s experts say a different approach is needed – given changing views about work – and how people want to be led.’
+> #### ‘Today’s experts say a different approach is needed – given changing views about work – and how people want to be led.’
 
 In their book **Out of Office,** published in January 2022, **Charles Warzel** and **Helen Anne Peterson** identify four critical themes companies will have to work on to attract and retain employees:
 
@@ -51,5 +51,3 @@ In the session on Friday, 11th February, **Paul Graham** discussed how different
 ### Fun
 
 All of the above 😊. Try them, you will LOVE them.
-
-<iframe width="560" height="315" src="[https://www.youtube.com/embed/fhukPSXfI5I](https://www.youtube.com/embed/fhukPSXfI5I "https://www.youtube.com/embed/fhukPSXfI5I")" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
