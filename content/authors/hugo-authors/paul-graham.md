@@ -1,7 +1,7 @@
 +++
 avatar = ""
 bio = "Paul's bio"
-featured = true
+featured = false
 social = []
 title = "Paul Graham"
 
