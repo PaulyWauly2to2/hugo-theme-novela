@@ -1,7 +1,6 @@
 +++
 avatar = "/images/profile-01.jpeg"
 bio = "Written by You. This is where your author bio lives. Share your work, your\njoys and of course, your Twitter handle.\n"
-draft = true
 featured = false
 title = "Paul Graham-(copy)"
 [[social]]
