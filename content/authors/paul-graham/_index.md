@@ -1,4 +1,3 @@
-# /content/authors/firstname-lastname/_index.md
 ---
 title: Dennis Brotzky
 bio: |
