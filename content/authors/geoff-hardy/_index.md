@@ -1,3 +1,7 @@
++++
+title = "Geoff Hardy"
+
++++
 title: Geoff Hardy
 bio: |
   Written by You. This is where your author bio lives. Share your work, your
