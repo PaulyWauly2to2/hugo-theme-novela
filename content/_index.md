@@ -4,6 +4,6 @@ hero:
     underway
   maxWidthPX: "652"
 seo:
-  image: ''
+  image: "/images/w-i-c.png"
 
 ---
