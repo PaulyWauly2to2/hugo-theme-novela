@@ -2,7 +2,7 @@
 authors = []
 date = 2022-04-20T23:00:00Z
 excerpt = "‘Soaring vacancy rates mean employers need to work hard to attract and retain staff - this will require a shift in attitude to succeed.’"
-hero = "static/images/favicon.svg"
+hero = ""
 title = "Microsoft 365 Changing the way we work"
 
 +++
