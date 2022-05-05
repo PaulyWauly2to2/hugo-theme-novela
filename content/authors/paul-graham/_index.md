@@ -5,16 +5,6 @@ bio: |
   joys and of course, your Twitter handle.
 avatar: "/images/14907015-9a62-4553-9cf0-fbebc931be29.jpg"
 featured: true
-social:
-- title: unsplash
-  url: https://unsplash.com
-- title: github
-  url: https://github.com
-- title: github
-  url: https://github.com
-- title: github
-  url: https://github.com
-- title: github
-  url: https://github.com
+social: []
 
 ---
