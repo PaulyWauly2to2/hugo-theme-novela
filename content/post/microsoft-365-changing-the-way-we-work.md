@@ -8,7 +8,7 @@ title = "Microsoft 365 Changing the way we work"
 +++
 An article in last weekends **‘Observer’**, summed up the current state of the UK jobs market.
 
-> #### ‘It's not quite the Black Death, but worker shortages hit UK firms hard.' 
+> #### ‘It's not quite the Black Death, but worker shortages hit UK firms hard.'
 
 > #### ‘Soaring vacancy rates mean employers need to work hard to attract and retain staff - this will require a shift in attitude to succeed.’
 
@@ -51,5 +51,3 @@ In the session on Friday, 11th February, **Paul Graham** discussed how different
 ### Fun
 
 All of the above 😊. Try them, you will LOVE them.
-
-{{<youtube >}}
