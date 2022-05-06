@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
-<svg id="svg11116" width="8.056mm" height="5.8053mm" version="1.1" viewBox="0 0 8.056 5.8053" xmlns="http://www.w3.org/2000/svg">
- <g id="layer1" transform="translate(-72.999 -138.63)" stroke-width=".26458">
-  <rect id="rect19868" x="72.368" y="137.49" width="9.2704" height="7.8024" fill="#fff"/>
-  <path id="path19790" d="m72.999 138.63h2.1033v0.38805l-0.72954 0.0931 1.0633 3.6167 0.22507 1.0788 0.25612-1.0788 0.89253-2.957-0.20955-0.65969-0.55104-0.0931v-0.38805h2.1809v0.38805l-0.76059 0.0931 1.0477 3.6167 0.26388 1.1642 0.21731-1.1642 0.9779-3.6167-0.76835-0.0931v-0.38805h1.8471v0.38805l-0.51223 0.0931-1.5445 5.3241h-0.76059l-1.1874-3.8883-1.1486 3.8883h-0.7373l-1.6531-5.3164-0.51223-0.1009z"/>
+<svg id="svg12" width="32" height="32" version="1.1" viewBox="0 0 8.4667 8.4667" xmlns="http://www.w3.org/2000/svg">
+ <g id="layer1" stroke-width=".26458">
+  <rect id="rect4776" x=".039411" y=".039411" width="8.4733" height="8.4339" fill="#fff"/>
+  <text id="text1030" x="0.63057327" y="6.9757161" font-family="Georgia" font-size="7.0556px" style="line-height:1.25" xml:space="preserve"><tspan id="tspan1028" x="0.63057327" y="6.9757161" font-family="Merriweather" font-size="7.0556px" stroke-width=".26458">W</tspan></text>
  </g>
 </svg>
