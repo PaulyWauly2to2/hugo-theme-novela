@@ -75,3 +75,18 @@ title = "SharePoint Modern Page Tiles"
 }
 
 '''
+
+
+#### Code block with Hugo's internal highlight shortcode
+{{< highlight html >}}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Example HTML5 Document</title>
+</head>
+<body>
+  <p>Test</p>
+</body>
+</html>
+{{< /highlight >}}
