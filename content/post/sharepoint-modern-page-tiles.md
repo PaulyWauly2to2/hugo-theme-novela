@@ -1,7 +1,7 @@
 +++
 authors = ["Paul Graham"]
 date = 2022-05-05T23:00:00Z
-excerpt = ""
+excerpt = "I find that one of the biggest annoyances with SharePoint Online and Modern Pages is the lack of customisation options you have available."
 hero = "/images/sharepoint-json-tiles.jpg"
 title = "Customising SharePoint Modern Pages - Json Gallery Tiles"
 
