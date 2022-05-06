@@ -6,7 +6,7 @@ hero = ""
 title = "SharePoint Modern Page Tiles"
 
 +++
-{{< highlight html >}}
+{{< highlight json >}}
 
 {
 "$schema": "https://developer.microsoft.com/json-schemas/sp/v2/tile-formatting.schema.json",
