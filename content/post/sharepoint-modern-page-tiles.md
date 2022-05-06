@@ -6,7 +6,7 @@ hero = ""
 title = "SharePoint Modern Page Tiles"
 
 +++
-\`\`\`html
+{{< highlight html >}}
 
 {
 "$schema": "https://developer.microsoft.com/json-schemas/sp/v2/tile-formatting.schema.json",
@@ -74,7 +74,7 @@ title = "SharePoint Modern Page Tiles"
 }
 }
 
-\`\`\`
+{{< /highlight >}}
 
 #### Code block with Hugo's internal highlight shortcode
 
