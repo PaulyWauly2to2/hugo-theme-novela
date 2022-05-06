@@ -88,18 +88,12 @@ In same way you can add the links for word, powerpoint, teams and outlook.
     Bob | 27
   Alice | 23
 
-Word | "[https://www.office.com/launch/word?auth=2](https://www.office.com/launch/word?auth=2 "https://www.office.com/launch/word?auth=2")", "Word for web" | [https://spoppe-b.azureedge.net/files/fabric-cdn-prod_20211104.001/assets/item-types/32/docx.svg](https://spoppe-b.azureedge.net/files/fabric-cdn-prod_20211104.001/assets/item-types/32/docx.svg "https://spoppe-b.azureedge.net/files/fabric-cdn-prod_20211104.001/assets/item-types/32/docx.svg")
+Word | "[https://www.office.com/launch/word?auth=2](https://www.office.com/launch/word?auth=2 "https://www.office.com/launch/word?auth=2")", "Word for web" |[https://spoppe-b.azureedge.net/files/fabric-cdn-prod_20211104.001/assets/item-types/32/docx.svg](https://spoppe-b.azureedge.net/files/fabric-cdn-prod_20211104.001/assets/item-types/32/docx.svg "https://spoppe-b.azureedge.net/files/fabric-cdn-prod_20211104.001/assets/item-types/32/docx.svg")
 
 --------|------|------
 
 PowerPoint | "[https://www.office.com/launch/powerpoint?auth=2](https://www.office.com/launch/powerpoint?auth=2 "https://www.office.com/launch/powerpoint?auth=2")", "PowerPoint for web" | [https://spoppe-b.azureedge.net/files/fabric-cdn-prod_20211104.001/assets/item-types/32/pptx.svg](https://spoppe-b.azureedge.net/files/fabric-cdn-prod_20211104.001/assets/item-types/32/pptx.svg "https://spoppe-b.azureedge.net/files/fabric-cdn-prod_20211104.001/assets/item-types/32/pptx.svg")
-
-\------
-
 Teams | "[https://teams.microsoft.com/_#/conversations/?ctx=chat](https://teams.microsoft.com/_#/conversations/?ctx=chat "https://teams.microsoft.com/_#/conversations/?ctx=chat")", "Teams for web" | [https://static2.sharepointonline.com/files/fabric-cdn-prod_20210930.001/assets/brand-icons/product/svg/teams_20x1.svg](https://static2.sharepointonline.com/files/fabric-cdn-prod_20210930.001/assets/brand-icons/product/svg/teams_20x1.svg "https://static2.sharepointonline.com/files/fabric-cdn-prod_20210930.001/assets/brand-icons/product/svg/teams_20x1.svg")
-
-\------
-
 Outlook | "[https://outlook.office.com/mail/](https://outlook.office.com/mail/ "https://outlook.office.com/mail/")", "Outlook for web"| [https://static2.sharepointonline.com/files/fabric-cdn-prod_20210930.001/assets/brand-icons/product/svg/outlook_20x1.svg](https://static2.sharepointonline.com/files/fabric-cdn-prod_20210930.001/assets/brand-icons/product/svg/outlook_20x1.svg "https://static2.sharepointonline.com/files/fabric-cdn-prod_20210930.001/assets/brand-icons/product/svg/outlook_20x1.svg")
 
 The list should now look like this
