@@ -37,7 +37,6 @@ title = "SharePoint Modern Page Tiles"
     "children": [ 
     
     { 
-    
     "elmType": "div", 
     
     "attributes": { 
