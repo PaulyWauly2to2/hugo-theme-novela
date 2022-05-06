@@ -82,11 +82,6 @@ You should now see a link for excel.
 
 In same way you can add the links for word, powerpoint, teams and outlook.
 
-
-  Name | Age
---------|------
-    Bob | 27
-  Alice | 23
   
   Title | URL | ImageUrl
   --------|------|------
