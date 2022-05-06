@@ -2,7 +2,7 @@
 authors = ["Paul Graham"]
 date = 2022-05-05T23:00:00Z
 excerpt = ""
-hero = ""
+hero = "/images/sharepoint-json-tiles.jpg"
 title = "SharePoint Modern Page Tiles"
 
 +++
