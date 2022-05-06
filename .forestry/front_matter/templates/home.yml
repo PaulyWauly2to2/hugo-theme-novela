@@ -7,3 +7,8 @@ fields:
   config: {}
   template: home-hero
   label: Hero
+- name: home_image
+  type: file
+  config:
+    maxSize: 64
+  label: Home Image
