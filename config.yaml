@@ -6,3 +6,9 @@ pygmentsstyle: monokai
 taxonomies:
   author: authors
 enableEmoji: true
+imaging:
+  anchor: Smart
+  bgColor: '#ffffff'
+  hint: photo
+  quality: 75
+  resampleFilter: Box
