@@ -10,5 +10,5 @@ imaging:
   anchor: Smart
   bgColor: '#ffffff'
   hint: photo
-  quality: 10
+  quality: 1
   resampleFilter: Box
