@@ -7,13 +7,6 @@ title = "Customising SharePoint Modern Pages - Json Gallery Tiles"
 
 +++
 ## Introduction
-
-![](/images/sharepoint-json-tiles.jpg){ width=60%,height:30px }
-
-<img src="image.png" width="200" height="100">
-
-![text](myphoto.png){ width=60%,height:30px }
-
 I find that one of the biggest annoyances with SharePoint Online and Modern Pages is the lack of customisation options you have available.
 
 For example, if you want to make a clickable tile with a different look and feel then your options are limited.
