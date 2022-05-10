@@ -40,8 +40,8 @@ Created using [GitMind - Online Mind Mapping Software](https://gitmind.com/)
 
 ### 3. Never turn down an opportunity to speak in public
 
-Speaking to groups of people is something that only becomes better the more that you do it. I have never met anyone who was good at anything the first time they tried it. 
+Speaking to groups of people is something that only becomes better the more that you do it. I have never met anyone who was good at anything the first time they tried it.
 
 In my opinion, Introverted people are often the best public speakers because they intuitively watch the audience and make adjustments to the content as they go along.
 
-Thank you for reading :)
+Thank you for reading :grinning:
