@@ -1,7 +1,7 @@
 +++
 authors = ["Paul Graham"]
 date = 2022-05-09T23:00:00Z
-excerpt = "The merest thought of speaking to groups of people is something that used to terrify me. As someone who has suffered with confidence issues, I felt real anxiety just as an audience member."
+excerpt = "the merest thought of speaking to groups of people was something that would terrify me"
 hero = "/images/ryan-quintal-t8_tn3tqmoi-unsplash.jpg"
 title = "Don’t be afraid to speak"
 
@@ -10,17 +10,21 @@ title = "Don’t be afraid to speak"
 
 Public speaking or any kind of talking to groups is something that I find fascinating.
 
-The merest thought of speaking to groups of people is something that used to terrify me. As someone who has suffered with confidence issues, I felt real anxiety just as an audience member.
+This is because until about ten years ago, the merest thought of speaking to groups of people was something that would terrify me.
 
-So around ten years ago I decided that my anxieties were not only affected my wellbeing but also affecting my earning potential.
+I suffered with confidence issues and felt real anxiety just as an audience member.
 
-In this blog I want to share three things that I found to be useful.
+So, I decided that my anxieties were not only affecting my wellbeing but also affecting my earning potential.
 
-### Think about how you learn.
+I'm now a consultant for a London based IT company and speak to groups of people a daily basis.
+
+In this blog I want to share the three things that I found to be the most useful.
+
+### 1. Think about how you learn.
 
 Learn your topic and think about it from a beginner's point of view. What did you find useful when you learned about it. Why do you find the topic interesting
 
-### Don’t overly rehearse.
+### 2. Don’t overly rehearse.
 
 When I first started presenting, I used to write everything down that I would say. I would have every word scripted. I found this to be very time consuming and also not pleasant for the people who watched me.
 
@@ -30,9 +34,9 @@ I have found that doing a MindMap of the presentation works the best for me. Bel
 
 Each represents a part of the presentation that will prompt me for what I will talk about next.
 
-The whole MindMap for the Community presentation can be downloaded from here
+The whole MindMap for the Community presentation can be downloaded from [here](/images/community-centre.jpg "Community Centre MindMap")
 
-### Never turn down an opportunity to speak in public
+### 3. Never turn down an opportunity to speak in public
 
 Speaking to groups of people is something that only becomes better the more that you do it. I have never met anyone who was good at anything the first time they tried it. Introverted people are often the best public speakers because they intuitively watch the audience and make adjustments to the content as they go along.
 
