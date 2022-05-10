@@ -1,13 +1,16 @@
 +++
 authors = ["Paul Graham"]
 date = 2022-05-05T23:00:00Z
-excerpt = "I find that one of the biggest annoyances with SharePoint Online and Modern Pages is the lack of customisation options you have available."
-hero = "/images/sharepoint-json-tiles.jpg"
+excerpt = "Creating engaging pages on SharePoint modern has never been more important."
+hero = "/images/patrick-hendry-heznre5qea8-unsplash-1.jpg"
 title = "Customising SharePoint Modern Pages - Json Gallery Tiles"
 
 +++
 ## Introduction
-I find that one of the biggest annoyances with SharePoint Online and Modern Pages is the lack of customisation options you have available.
+
+Creating engaging pages on SharePoint modern has never been more important.
+
+and yet, I find that one of the biggest annoyances with SharePoint Online and Modern Pages is the lack of customisation options you have available.
 
 For example, if you want to make a clickable tile with a different look and feel then your options are limited.
 
