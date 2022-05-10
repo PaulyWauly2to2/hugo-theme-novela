@@ -32,5 +32,6 @@ fields:
   label: Authors
 pages:
 - content/post/demo.md
+- content/post/don-t-be-afraid-to-speak-up.md
 - content/post/microsoft-365-changing-the-way-we-work.md
 - content/post/sharepoint-modern-page-tiles.md
