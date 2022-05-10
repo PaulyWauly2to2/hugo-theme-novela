@@ -3,7 +3,7 @@ authors = ["Paul Graham"]
 date = 2022-05-09T23:00:00Z
 excerpt = "The merest thought of speaking to groups of people is something that used to terrify me. As someone who has suffered with confidence issues, I felt real anxiety just as an audience member."
 hero = "/images/ryan-quintal-t8_tn3tqmoi-unsplash.jpg"
-title = "Don’t be afraid to speak up"
+title = "Don’t be afraid to speak"
 
 +++
 ## Don’t be afraid to speak
